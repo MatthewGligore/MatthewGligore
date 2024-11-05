@@ -1,17 +1,48 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Gligore
 =======================================================================================================================================
 
-Programming Enthusiast
-----------------------
+Matthew Gligore
+👋 Hello and welcome to my GitHub profile!
 
-I am a full-time student pursuing a bachelor's degree in Software Development. My passion for technology and dedication to learning programming fundamentals drive me to excel in this field. Growing up in the 21st century, I have witnessed the rapid advancements in technology and have always been fascinated by its capabilities. From a young age, I found myself captivated by computers, software, and their potential to shape the world around us. This fascination has fueled my desire to pursue a career in software development and become part of the innovation that drives our modern society forward. I have been actively engaged in learning programming fundamentals. Through my coursework and personal projects, I have gained a solid foundation in programming languages such as Java and Python. I have also familiarized myself with object-oriented programming principles, algorithms, and software design patterns. Additionally, I have developed a strong problem-solving mindset and an ability to think analytically, which are essential skills in the software development field. As a student, I am constantly seeking opportunities to expand my knowledge and refine my skills. I actively participate in online courses and am always looking to improve my general knowledge. I am a quick learner, adaptable, and always eager to take on new challenges. My commitment to self-improvement and my strong academic background make me a dedicated and capable learner. I am confident that my passion for technology, combined with my programming fundamentals, will enable me to contribute effectively in a software development role. In conclusion, as a full-time student with a deep passion for technology and a solid foundation in programming fundamentals, I am excited to embark on a career in software development. I am eager to apply my knowledge, learn from industry professionals, and contribute to innovative projects that have a positive impact on society.
+Aspiring Software Developer
+I am a junior pursuing a Bachelor’s degree in Computer Science with a strong passion for technology and software development. My journey into the world of programming began with an early fascination for computers and their potential to drive innovation.
 
-* 🌍  I'm based in Atlanta
-* ✉️  You can contact me at [mmgligore@gmail.com](mailto:mmgligore@gmail.com)
-* 🧠  I'm learning Java and Python
-* 🤝  I'm open to collaborating on projects that keep me learning
+Experience and Skills
+Throughout my academic and personal endeavors, I have gained substantial experience in various programming languages and technologies, including:
 
+Java
 
-### Socials
+Python
 
-<p align="left"> <a href="https://www.github.com/MatthewGligore" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+Linux
+
+HTML
+
+JavaScript
+
+CSS
+
+And more...
+
+Currently, I am working on an ecommerce website for a small business named Yarnables, where I am applying my skills in web development to create a robust and user-friendly platform.
+
+Education
+I am committed to expanding my knowledge and honing my technical skills. As a dedicated student, I actively participate in coursework and online courses to stay updated with the latest advancements in the field.
+
+Projects
+Yarnables Ecommerce Website: Developing an ecommerce platform to enhance the online presence and sales for a small business.
+
+Seeking Opportunities
+I am actively looking for job and learning opportunities where I can apply my skills and grow as a software developer. I am eager to connect with industry professionals and work on innovative projects.
+
+Contact Information
+🌍 Based in Atlanta, GA
+
+📧 Feel free to reach out: mmgligore@gmail.com
+
+💼 Connect with me on LinkedIn
+
+Let's Collaborate
+I am always eager to collaborate on innovative projects and learn from industry professionals. If you have a project that could benefit from my expertise, or if you simply want to discuss technology and software development, feel free to reach out.
+
+<p align="left"> <a href="https://www.github.com/MatthewGligore" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
