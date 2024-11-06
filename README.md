@@ -29,7 +29,6 @@ I work with the following tools to bring my projects to life:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23F7F7F7?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-%23F7F7F7?style=for-the-badge&logo=microsoft-access&logoColor=2674C7)
 ![Git](https://img.shields.io/badge/Git-%23F7F7F7?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-%23F7F7F7?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23F7F7F7?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ### **Networking & Protocols**  
