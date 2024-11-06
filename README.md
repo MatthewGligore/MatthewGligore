@@ -1,4 +1,4 @@
-# 🌍 **Hello, World!** 👋
+# 🌍 **Hello, World!** ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I'm a dedicated **Computer Science** student at **Georgia Gwinnett College**, working toward my B.S. in Computer Science (Expected Graduation: May 2026). I’m passionate about building impactful solutions and improving systems through programming, networking, and software engineering.
 
