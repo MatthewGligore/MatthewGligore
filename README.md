@@ -21,6 +21,8 @@ These are the programming languages I use to build applications and solve proble
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7F7F7?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23F7F7F7?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-%23F7F7F7?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bash](https://img.shields.io/badge/Bash-%23F7F7F7?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+
 
 ### **Tools & Technologies**  
 I work with the following tools to bring my projects to life:
