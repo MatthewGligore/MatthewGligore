@@ -1,12 +1,12 @@
 # 🌍 **Hello, World!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm a dedicated **Computer Science** student at **Georgia Gwinnett College**, working toward my B.S. in Computer Science (Expected Graduation: May 2026). I’m passionate about building impactful solutions and improving systems through programming, networking, and software engineering.
+I'm a dedicated **Software Development** student at **Georgia Gwinnett College**, working toward my B.S. in Information Technology (Expected Graduation: May 2026). I’m passionate about building impactful solutions and improving systems through programming, networking, and software engineering.
 
 Feel free to explore my repositories and discover the projects I've been working on. They reflect my growth as a developer, focusing on real-world applications and creative problem-solving.
 
 
 🎓 **Education**:  
-  B.S. in Computer Science (Expected Graduation: May 2026)  
+  B.S. in Information Technology (Expected Graduation: May 2026)  
   **Georgia Gwinnett College**
   
 
