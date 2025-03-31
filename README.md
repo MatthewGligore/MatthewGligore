@@ -72,6 +72,6 @@ I am always looking for new challenges and learning opportunities. If you're int
 
 ---
 
-> "The future belongs to those who believe in the beauty of their code." - *Eleanor Roosevelt* (probably)
+> "Code is like humor. When you have to explain it, it's bad."
 
 
