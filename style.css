@@ -413,3 +413,83 @@ div.footer a {
     height: 80vh;
   }
 }
+
+/* mobile responsiveness */
+@media only screen and (max-width: 768px) {
+  div.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: 20px;
+  }
+
+  div.hero img {
+    order: 2; 
+    max-width: 90%;
+    margin-top: 20px;
+  }
+
+  div.hero .data {
+    order: 1; 
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  div.hero .data h1.slogan {
+    font-size: 1.8rem;
+  }
+
+  div.hero .data span.typed-text {
+    font-size: 1.5rem;
+  }
+
+  div.hero .data p.name {
+    font-size: 1rem;
+  }
+
+  div.hero .data a {
+    font-size: 1.2rem;
+  }
+}
+
+/* Media query for screens between 768px and 1000px */
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+  div.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: 40px;
+  }
+
+  div.hero img {
+    order: 2; 
+    max-width: 80%;
+    margin-top: 20px;
+  }
+
+  div.hero .data {
+    order: 1; 
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  div.hero .data h1.slogan {
+    font-size: 2.5rem;
+  }
+
+  div.hero .data span.typed-text {
+    font-size: 2rem;
+  }
+
+  div.hero .data p.name {
+    font-size: 1.2rem;
+  }
+
+  div.hero .data a {
+    font-size: 1.5rem;
+  }
+}
